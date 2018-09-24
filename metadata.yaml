@@ -1,11 +1,16 @@
 _repo: The-Source-and-Mode-of-Solar-Energy-Throughout-the-Universe_56302
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56302-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Heysinger, Isaac Winter
     gutenberg_agent_id: '48770'
     url: http://www.gutenberg.org/2009/agents/48770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56302#The-Source-and-Mode-of-Solar-Energy-Throughout-the-Universe
 gutenberg_issued: '2018-01-04'
 gutenberg_type: Text
 identifiers:
